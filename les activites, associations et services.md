@@ -20,7 +20,7 @@ Pour tout renseignement : 03 65 67 74 65 pendant les heures d'ouverture
 
 ![Dessin de bibliothèque]({% link images/bib.jpg %})
 
- ### Danse 
+### Danse 
 ![Flydanse]({% link images/Danse.jpg %})
 
 ### Sophrologie
