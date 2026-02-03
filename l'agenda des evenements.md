@@ -1,5 +1,5 @@
 ---
-title: "Agenda"
+title: "L'agenda des évènements"
 order: 4
 in_menu: true
 ---
