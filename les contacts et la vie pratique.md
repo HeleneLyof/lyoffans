@@ -26,6 +26,17 @@ in_menu: true
 - Lucie AGNELOT
 - Caroline VEJUX
 
+### Numéros d'urgence
+- Médecins de garde Franche-Comté : **3966**
+- Pharmacies de garde : **3237/3237.fr**
+- SAMU : **15**
+- Urgences- Union européenne : **112**
+- Urgences personnes sourdes et malentendant.es : **114** (sms/fax uniquement)
+- Pompiers : **18**
+- Gendarmerie :**17**
+- Gendarmerie de Champagney : **03 84 23 10 17**
+
+
 ### Centre de Première Intervention (CPI)
 Au cœur de nos quatre communes, le CPI existe depuis 1980 et joue un rôle crucial dans le gestion des urgences et la protection des habitants. Ce dispositif, composé de onze pompiers volontaires et d'un équipement adapté, permet une intervention rapide en cas d'incendie, d'accidents ou d'autres sinistres. 
 ![Carte de voeux du CPI]({% link images/pompiers.jpeg %})
