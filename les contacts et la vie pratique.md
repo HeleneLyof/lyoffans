@@ -26,6 +26,11 @@ in_menu: true
 - Lucie AGNELOT
 - Caroline VEJUX
 
+### Centre de Première Intervention (CPI)
+Au cœur de nos quatre communes, le CPI existe depuis 1980 et joue un rôle crucial dans le gestion des urgences et la protection des habitants. Ce dispositif, composé de onze pompiers volontaires et d'un équipement adapté, permet une intervention rapide en cas d'incendie, d'accidents ou d'autres sinistres. 
+![Carte de voeux du CPI]({% link images/pompiers.jpeg %})
+
+
 ### SYTEVOM Pays de Lure 
 Déchetterie équipée du contrôle d'accès, nécessité d'avoir un badge
 
