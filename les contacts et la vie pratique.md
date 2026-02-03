@@ -11,6 +11,9 @@ in_menu: true
 - Portable : 06 80 64 34 72
 - E-mail: contact@mairielyoffans.fr
 
+- Retrouvez-vous sur [facebook](https://facebook.com/share/IDjeUçicNW)
+- Et sur **Panneau Pocket**, pour rester informés de toute l'actualité en téléchargeant l'application.
+
 **Permanences**
 
 - Lundi de 8h30 à 12h et de 13h30 à 17h30
