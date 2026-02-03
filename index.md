@@ -7,7 +7,7 @@ in_menu: true
 
 
 
-Village étendu, plein de verdure et abondamment fleuri en saison, Lyoffans trouverait son origine dans le nom d’une personne germanique « Laidulfus ».
+Village étendu de 443 habitants, plein de verdure et abondamment fleuri en saison, Lyoffans trouverait son origine dans le nom d’une personne germanique « Laidulfus ».
 
 L’église sous le titre de Saint-Martin, reconstruite aux XVIème et XVIIIème siècles, fut agrandie en 1820 de deux nefs latérales. Son clocher est carré à toit bulbeux, propre à la Franche-Comté.
 
