@@ -43,3 +43,7 @@ Connaître [le calendrier de collecte 2026](https://www.pays-de-lure.fr/ged/cale
 ### Bureau de postes
 - **Clairegoutte** : consulter [les horaires](https://www.info-postes.com/la-poste/22665/)
 - **Moffans** : consulter [les horaires](https://www.info-postes.com/search.php) 
+
+### Plats à emporter
+- **Crousti'Poulet** : tous les vendredis soir sur l'aire de co-voiturage
+- **Kebabs** dans le camion d'Ahmet Altum : tous les jeudis soir au centre du village 
