@@ -13,6 +13,8 @@ in_menu: true
 
 - Retrouvez-vous sur [facebook](https://facebook.com/share/IDjeUçicNW)
 - Et sur **Panneau Pocket**, pour rester informés de toute l'actualité en téléchargeant l'application.
+![Panneau pocket]({% link images/OIP-6194825.jpeg %})
+
 
 **Permanences**
 
