@@ -40,3 +40,6 @@ Déchetterie équipée du contrôle d'accès, nécessité d'avoir un badge
 
 Connaître [le calendrier de collecte 2026](https://www.pays-de-lure.fr/ged/calendrier2026-lyoffans.pdf)
 ` 
+### Bureau de postes
+- **Clairegoutte** : consulter [les horaires](https://www.info-postes.com/la-poste/22665/)
+- **Moffans** : consulter [les horaires](https://www.info-postes.com/search.php) 
