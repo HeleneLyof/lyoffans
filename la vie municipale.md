@@ -36,7 +36,9 @@ in_menu: true
 - **Catherine Bugna** :
 - **Jérôme Dechampbenoit** : correspondant entretien de la commune "équipements et espaces communaux", référent commission "fleurissement"
 - **Isabelle Dirand** : référente des commissions "information/communication" et "animation", déléguée SIVU
-- **Patricia Fernette ** :
+- **Patricia Fernette** :
 - **Hélène Henry** :
+- **Emmanuel Millier** : titulaire à la commission d'appel d'offres, commission communautaire : travaux. 
+
 - **Alexandre Noirot** : correspondant défense
 - **Virginie Rolin** : 
