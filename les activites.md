@@ -1,9 +1,9 @@
 ---
-title: "Les activités, associations et services"
+title: "Les activités"
 order: 2
 in_menu: true
 ---
-## Les activités, associations et services
+## Les activités
 
 ### Une bibliothèque 
 La bibliothèque, riche de plus de 18000 livres (romans, BD, ouvrages jeunesse...) est ouverte à tous. Elle s'accompagne d'un espace d'activités où petits et grands pourront se retrouver autour d'ateliers créatifs, de jeux, ou simplement pour partager un moment ensemble. Le mercredi après-midi est dédié aux enfants, avec notamment l'aide aux devoirs.
@@ -30,8 +30,4 @@ Pour tout renseignement : 03 65 67 74 65 pendant les heures d'ouverture
 Association Communale de Chasse Agréée de Lyoffans. 
 Elle favorise sur son territoire, dans le respect des propriétés et des récoltes, la répression du braconnage l'éducation cynégétique de ses membres, la destruction des nuisibles et assure une meilleure organisation technique de la chasse. Vous pouvez les solliciter si vous constatez des problèmes de nuisibles. Ses 23 membres rappellent leurs actions de protection de l'environnement et de la qualité de nos forêts. 
 
-![Texte décrivant l'image]({% link images/forêt.jpeg %})
-
-### Restauration à emporter
-- Kebabs dans le camion d'Ahmet Altun tous les jeudis soirs  au centre du village.
-- Crousti'Poulet tous les vendredis soirs sur l'aire de co-voiturage. 
+![Texte décrivant l'image]({% link images/forêt.jpeg %}) 
