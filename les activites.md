@@ -33,6 +33,6 @@ Elle favorise sur son territoire, dans le respect des propriétés et des récol
 ![Texte décrivant l'image]({% link images/forêt.jpeg %}) 
 
 ### Les lyoffans roses 
-L'association organise des événements culturels au sein d'un cadre privé et convivial exclusivement réservé à ses membres, prioritairement les habitants de Lyoffans et environ. 
+L'association organise des événements culturels au sein d'un cadre privé et convivial exclusivement réservé à ses membres, prioritairement les habitants de Lyoffans et environ. Pour être membre, il suffit de pénétrer sur le terrain un jour de manifestation ! 
 
 ![1er concert 30 mai 2025]({% link images/bruno solo.jpg %}) 
