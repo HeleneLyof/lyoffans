@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Le village"
 order: 0
 in_menu: true
 ---
