@@ -31,3 +31,6 @@ Association Communale de Chasse Agréée de Lyoffans.
 Elle favorise sur son territoire, dans le respect des propriétés et des récoltes, la répression du braconnage l'éducation cynégétique de ses membres, la destruction des nuisibles et assure une meilleure organisation technique de la chasse. Vous pouvez les solliciter si vous constatez des problèmes de nuisibles. Ses 23 membres rappellent leurs actions de protection de l'environnement et de la qualité de nos forêts. 
 
 ![Texte décrivant l'image]({% link images/forêt.jpeg %}) 
+
+### Les lyoffans roses 
+L'association organise des événements culturels au sein d'un cadre privé et convivial exclusivement réservé à ses membres, prioritairement les habitants de Lyoffans et environ. 
