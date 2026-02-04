@@ -17,6 +17,8 @@ L'étang de Chaudoz, situé à l'est du village, sur le banc communal, est habit
 
 ![Phragmite des joncs]({% link images/Phragmite des joncs.jpeg %})
 
+![Vanneau huppé]({% link images/vanneau huppé.jpeg %})
+
 Village étendu de 443 habitants, plein de verdure et abondamment fleuri en saison, Lyoffans trouverait son origine dans le nom d’une personne germanique « Laidulfus ».
 
 L’église sous le titre de Saint-Martin, reconstruite aux XVIème et XVIIIème siècles, fut agrandie en 1820 de deux nefs latérales. Son clocher est carré à toit bulbeux, propre à la Franche-Comté.
