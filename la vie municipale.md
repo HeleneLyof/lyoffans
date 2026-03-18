@@ -7,14 +7,14 @@ in_menu: true
 
 **Employé communal** : Maxime Pioz 
 
-![L'équipe municipale]({% link images/équipe municipale.jpeg %})
-
+### Élections municipales du 15 mars 2026
+***"Bien Vivre à Lyoffans"***, unique liste de la commune reconduite par Laurent DEMONET, a remporté le scrutin au premier tour.  
 
 ### Le maire et ses adjoints
 
 **Le maire : Laurent Demonet**
 - Président du SIPI
-- Vice-Prédident du SIVU
+- Vice-Président du SIVU
 - Président à la commission d'appel d'offres
 - Gestion de la page Facebook et Panneau Pocket
 - Gestion salle des fêtes
@@ -30,6 +30,7 @@ in_menu: true
 - Référent des commissions "bois et affouage" et "logements communaux"
 - Représentant SIPI
 - Commission communautaire : animation du territoire
+
 ### Les autres conseillers municipaux
 
 - **Anthony Ballay** : commission travaux
@@ -38,7 +39,5 @@ in_menu: true
 - **Isabelle Dirand** : référente des commissions "information/communication" et "animation", déléguée SIVU
 - **Patricia Fernette** :
 - **Hélène Henry** :
-- **Emmanuel Millier** : titulaire à la commission d'appel d'offres, commission communautaire : travaux. 
-
 - **Alexandre Noirot** : correspondant défense
 - **Virginie Rolin** : 
