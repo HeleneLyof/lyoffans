@@ -9,3 +9,5 @@ in_menu: true
 
 
 #### 28 juin 2026 : vide-grenier 
+**HISTORIQUE**
+#### 21 mars 2026 : nettoyage du village 
