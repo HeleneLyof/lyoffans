@@ -3,6 +3,9 @@ title: "Les actualités"
 order: 3
 in_menu: true
 ---
+### 21 mars 2026
+Nettoyage du village 
+
 ### 31 janvier 2026 
 
 **Un savoir-faire rural**
