@@ -22,23 +22,28 @@ in_menu: true
 - Commission communautaire : finances et ressources humaines
 
 **1er adjoint : Fabian Geney**
-- Référent de la commission "travaux neufs, entretien et projets"
+- Référent de la commission : travaux neufs, entretien et projets
 - Délégué SIED
 - Titulaire à la commission d'appel d'offres
 - Commission communautaire : développement du territoire
 
 **2ème adjoint : Daniel Lamboley**
-- Référent des commissions "bois et affouage" et "logements communaux"
+- Référent des commissions : bois-affouage et logements communaux
 - Représentant SIPI
 - Commission communautaire : animation du territoire
+
+**3ème adjoint : Isabelle Dirand**
+- Commission : information-communication-animation
+- Déléguée SIVU
+- Bulletin municipal
 
 ### Les autres conseillers municipaux
 
 - **Anthony Ballay** : commission travaux
-- **Catherine Bugna** :
-- **Jérôme Dechampbenoit** : correspondant entretien de la commune "équipements et espaces communaux", référent commission "fleurissement"
-- **Isabelle Dirand** : référente des commissions "information/communication" et "animation", déléguée SIVU
-- **Patricia Fernette** :
-- **Hélène Henry** :
+- **Catherine Bugna** : création et animation de la bibliothèque, organisation d'animations  
+- **Jérôme Dechampbenoit** : correspondant entretien de la commune, équipements et espaces communaux, référent commission fleurissement
+- **Isabelle Dirand** : référente des commissions information, communication et animation, déléguée SIVU
+- **Patricia Fernette** : création et animation de la bibliothèque, organisation d'animations 
+- **Hélène Henry** : création et animation du site internet, organisation de manifestations culturelles, vie associative
 - **Alexandre Noirot** : correspondant défense
-- **Virginie Rolin** : 
+- **Virginie Rolin** : correspondante canicule, pandémie grippale, incendie et secours 
