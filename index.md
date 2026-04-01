@@ -13,6 +13,8 @@ L'étang de Chaudoz, situé à l'est du village, sur le banc communal, est habit
 
 ![Étang de Chaudoz]({% link images/2025-06_-_Lyoffans_-_04.jpg %})
 
+![Étang de Chaudoz]({% link images/2025-06_-_Lyoffans_-_04.jpg %} "Si vous avez une belle photo de l'étang, on est preneur !")
+
 ![Trois oiseaux]({% link images/Bandeau piaf.png %})
 
 
