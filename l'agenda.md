@@ -9,7 +9,7 @@ in_menu: true
 ![Vide grenier]({% link images/Videgrenier.jpg %})
 
 
-# **On y était** #
+# **On y était**
 
 #### 21 mars 2026 : nettoyage du village 
 ![Nettoyage de printemps]({% link images/Photnettoyagedeprintemps210326.jpeg %}) 
