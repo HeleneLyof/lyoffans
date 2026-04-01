@@ -10,4 +10,4 @@ in_menu: true
 
 **HISTORIQUE**
 #### 21 mars 2026 : nettoyage du village 
-![Nettoyage du village]({% link images/Photnettoyagedeprintemps210326.jpeg %}) 
+![Nettoyage de printemps]({% link images/Photnettoyagedeprintemps210326.jpeg %}) 
