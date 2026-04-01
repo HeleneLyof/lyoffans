@@ -13,7 +13,7 @@ L'étang de Chaudoz, situé à l'est du village, sur le banc communal, est habit
 
 ![Étang de chaudoz]({% link images/2025-06_-_Lyoffans_-_04.jpg %})
 
-![Tarier des prés]({% link images/Tarier des prés.jpeg %}) ![Phragmite des joncs]({% link images/Phragmite des joncs.jpeg %}) ![Vanneau huppé]({% link images/vanneau huppé.jpeg %})
+![Tarier des prés]({% link images/Tarier des prés.jpeg %})![Phragmite des joncs]({% link images/Phragmite des joncs.jpeg %})![Vanneau huppé]({% link images/vanneau huppé.jpeg %})
 
 Village étendu de 443 habitants, plein de verdure et abondamment fleuri en saison, Lyoffans trouverait son origine dans le nom d’une personne germanique « Laidulfus ».
 
