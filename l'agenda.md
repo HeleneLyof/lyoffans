@@ -5,11 +5,11 @@ in_menu: true
 ---
 #### 27 juin 2026 : fête de la Saint-Jean
 
-![Fête de la St Jean 2025]({% link images/fetedelastjean.jpg %} width="1536" height="1024")
-<img src="fetedelastjean.jpg" alt="Fête de la St Jean 2025" width="1536" height="1024">
-
-
+![Fête de la St Jean 2025]({% link images/fetedelastjean.jpg %})
 
 #### 28 juin 2026 : vide-grenier 
+!Vide grenier]({% link images/Vide grenier.jpg %})
+
 **HISTORIQUE**
+
 #### 21 mars 2026 : nettoyage du village 
