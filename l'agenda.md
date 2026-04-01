@@ -5,6 +5,8 @@ in_menu: true
 ---
 #### 27 juin 2026 : fête de la Saint-Jean
 
+![Fête de la St Jean 2025]({% link images/fetedelastjean.jpg %})
+<img src="fetedelastjean.jpg" alt="Fête de la St Jean 2025" width="1536" height="1024">
 
 
 
