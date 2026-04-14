@@ -57,8 +57,6 @@ Déchetterie équipée du contrôle d'accès, nécessité d'avoir un badge
 
 **Hiver** (1er nov-29 févr) : lundi à samedi de 9h à 12h et de 13h30 à 17h
 
-
-
 Connaître [le calendrier de collecte 2026](https://www.pays-de-lure.fr/ged/calendrier2026-lyoffans.pdf)
 ` 
 ### Bureau de postes
@@ -66,5 +64,7 @@ Connaître [le calendrier de collecte 2026](https://www.pays-de-lure.fr/ged/cale
 - **Moffans** : consulter [les horaires](https://www.info-postes.com/search.php) 
 
 ### Plats à emporter
-- **Crousti'Poulet** : tous les vendredis soir sur l'aire de co-voiturage
-- **Kebabs** dans le camion d'Ahmet Altum : tous les jeudis soir au centre du village 
+- **kikipizz'** : tous les mercredis soir au centre du village. 
+Commandes au 06 81 33 08 93.
+- **Snack Kebab** dans le camion d'Ahmet Altum : tous les jeudis soir au centre du village. 
+Commandes au 06 89 39 25 36. 
