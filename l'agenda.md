@@ -13,6 +13,11 @@ Le mercredi 29 avril sera consacré à installer les fleurs dans différents lie
 
 ![Fleurs recup]({% link images/fleurs atelier enfants avril 2026.jpg %})
 
+#### 8 mai 2026 : Commémoration de la victoire du 8 mai 1945.
+Départ à 10h45 de la mairie.
+
+![Photo 8 mai 1945]({% link images/8 mai 1945.jpg %})
+
 
 #### 21 juin 2026 : salon micro-édition, dessins, concerts
 Évènement organisé par [l'association Les lyoffans roses](https://atelier.scribouilli.org/atelier-page?path=les%20activites.md&repoName=lyoffans&account=HeleneLyof)
