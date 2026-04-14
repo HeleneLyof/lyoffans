@@ -9,8 +9,8 @@ in_menu: true
 
 ### Élections municipales du 15 mars 2026
 ***"Bien Vivre à Lyoffans"***, unique liste de la commune reconduite par Laurent DEMONET, a remporté le scrutin au premier tour.  
+![Texte décrivant l'image]({% link images/Photo équipe.jpeg %})
 
-![équipe minicipale]({% link images/Photo équipe.jpeg %})
 
 
 ### Le maire et ses adjoints
