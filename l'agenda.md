@@ -14,9 +14,8 @@ Le mercredi 29 avril sera consacré à installer les fleurs dans différents lie
 ![Fleurs recup]({% link images/fleurs atelier enfants avril 2026.jpg %})
 
 
-
 #### 21 juin 2026 : salon micro-édition, dessins, concerts
-Évènement organisé par l'association Les lyoffans roses
+Évènement organisé par [l'association Les lyoffans roses](https://atelier.scribouilli.org/atelier-page?path=les%20activites.md&repoName=lyoffans&account=HeleneLyof)
 ![Fly de l'événement]({% link images/flyer-catalpas-party-V_01-.jpeg %})
 
 
