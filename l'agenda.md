@@ -10,7 +10,8 @@ Ces créations viendront embellir différents espaces du village, apportant une 
 Les enfants effectueront uniquement de la peinture, le découpage et collage seront réalisés par nos soins.
 Ateliers prévus les mercredis 15 et 22 avril. 8 enfants maximum par atelier.
 Le mercredi 29 avril sera consacré à installer les fleurs dans différents lieux du centre du village.
-![Fleurs récup]({% link images/fleurs atelier enfants avril 2026.jpg %})
+
+![Fleurs recup]({% link images/fleurs atelier enfants avril 2026.jpg %})
 
 
 
