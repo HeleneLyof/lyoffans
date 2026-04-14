@@ -28,6 +28,16 @@ Départ à 10h45 de la mairie.
 ![Fête de la St Jean 2025]({% link images/fetedelastjean.jpg %})
 #### 28 juin 2026 : vide-grenier 
 ![Vide grenier]({% link images/Videgrenier.jpg %})
+#### 27 septembre 2026 : hommage à la DFL : division Française libre 
+#### 11 novembre 2026 : commémoration de l’Armistice de 1918
+![Photo]({% link images/11 novembre.jpg %})
+
+#### 12 décembre 2026 : Noël des enfants
+![Photo petite fille et sapin de noël]({% link images/Noël.jpg %})
+
+#### 13 décembre 2026 : repas des ainés
+![Illustration des ainés qui dansent]({% link images/Repas des ainés.jpg %})
+
 
 
 # **On y était**
