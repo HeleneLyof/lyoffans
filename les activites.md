@@ -6,12 +6,13 @@ in_menu: true
 ## Les activités
 
 ### Bibliothèque 
-La bibliothèque, riche de plus de 18000 livres (romans, BD, ouvrages jeunesse...) est ouverte à tous. Elle s'accompagne d'un espace d'activités où petits et grands pourront se retrouver autour d'ateliers créatifs, de jeux, ou simplement pour partager un moment ensemble. Le mercredi après-midi est dédié aux enfants, avec notamment l'aide aux devoirs.
+La bibliothèque, riche de plus de 2800 livres (romans, BD, ouvrages jeunesse...) est ouverte à tous. Elle s'accompagne d'un espace d'activités où petits et grands pourront se retrouver autour d'ateliers créatifs, de jeux, ou simplement pour partager un moment ensemble.
 Ce bel endroit est animé avec passion par Catherine et Patricia, deux habitantes du village. Nous invitons chacun à venir découvrir cet espace chaleureux pensé pour les habitants de Lyoffans, Andornay, Magny-Jobert et Palante. Et si vous avez des livres ou des magazines à donner, n'hésitez pas à les déposer en mairie ! 
+Catherine et Patricia prennent également des restes de laines, des chutes de tissus et tout matériel pouvant servir au bricolage, peinture, perles, rubans, papier et carton de couleur…
 
 Horaires d'ouverture :
 - mardi 16h 18h
-- mercredi 14h 16h
+- mercredi 14h 16h (dédié aux enfants)
 - jeudi 20h 22h 
 Pour tout renseignement : 03 65 67 74 65 pendant les heures d'ouverture  
 
