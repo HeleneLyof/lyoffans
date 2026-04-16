@@ -25,6 +25,17 @@ in_menu: true
 
 ![Photo de la mairie]({% link images/mairie.jpeg %})
 
+### La bibliothèque
+Horaires d'ouverture :
+- mardi 16h 18h
+- mercredi 14h 16h (dédié aux enfants)
+- jeudi 20h 22h 
+
+Pour tout renseignement : 03 65 67 74 65 pendant les heures d'ouverture  
+
+bibliothequelyoffans@gmail.com
+
+
 ### Cabinet d'infirmières
 03 63 75 17 15
 - Pauline BOIS
