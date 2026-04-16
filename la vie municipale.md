@@ -46,4 +46,4 @@ in_menu: true
 - **Patricia Fernette** : création et animation de la bibliothèque, organisation d'animations 
 - **Hélène Henry** : création et animation du site internet, organisation de manifestations culturelles, vie associative
 - **Alexandre Noirot** : correspondant défense
-- **Virginie Rolin** : correspondante canicule, pandémie grippale, incendie et secours 
+- **Virginie Rolin** : correspondante canicule, pandémie grippale, incendie et secours, commissions travaux et logements communaux. 
