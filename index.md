@@ -10,7 +10,8 @@ Lyoffans est située dans le nord-est de la Bourgogne-Franche-Comté, dans le d�
 Parmi les 449 hectares du territoire de la commune, 171 sont boisés dont 163 de bois communal. Le terrain est plat avec au centre une cuvette allongée. Le village s'est installé sur un territoire caractérisé par la présence de vastes plaines vallonnées.
 
 L'étang de Chaudoz, situé à l'est du village, sur le banc communal, est habité par des espèces d’intérêt patrimonial telles que le phragmite des joncs, le tarier des prés, le vanneau huppé, pour les oiseaux et une fougère aquatique (la marsilée à quatre feuilles) dont l’étang est l’unique station connue pour la Haute-Saône. Le lézard des souches (reptile protégé) fréquente également ce milieu. 
-![Photo étang de Chaudoz]({% link images/étang.jpg %})
+
+![Carte étang de Chaudoz]({% link images/étang.jpg %})
 
 
 Et pour les passionné.es d'histoire et d'archéologie, [un lien vers le travail de la Shaarl](https://www.shaarl.com/wp-content/uploads/2024/10/bornesLyoffans2024_compressed.pdf)
