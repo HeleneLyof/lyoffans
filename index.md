@@ -11,7 +11,8 @@ Parmi les 449 hectares du territoire de la commune, 171 sont boisés dont 163 de
 
 L'étang de Chaudoz, situé à l'est du village, sur le banc communal, est habité par des espèces d’intérêt patrimonial telles que le phragmite des joncs, le tarier des prés, le vanneau huppé, pour les oiseaux et une fougère aquatique (la marsilée à quatre feuilles) dont l’étang est l’unique station connue pour la Haute-Saône. Le lézard des souches (reptile protégé) fréquente également ce milieu. 
 
-![Étang de Chaudoz]({% link images/2025-06_-_Lyoffans_-_04.jpg %})
+![Photo étang de chaudoz]({% link images/étang.jpeg %})
+
 
 ![Trois oiseaux]({% link images/Bandeau piaf.png %})
 
