@@ -3,8 +3,6 @@ title: "Les activités"
 order: 2
 in_menu: true
 ---
-## Les activités
-
 ### Bibliothèque 
 La bibliothèque, riche de plus de 2800 livres (romans, BD, ouvrages jeunesse...) est ouverte à tous. Elle s'accompagne d'un espace d'activités où petits et grands pourront se retrouver autour d'ateliers créatifs, de jeux, ou simplement pour partager un moment ensemble.
 Ce bel endroit est animé avec passion par Catherine et Patricia, deux habitantes du village. Nous invitons chacun à venir découvrir cet espace chaleureux pensé pour les habitants de Lyoffans, Andornay, Magny-Jobert et Palante. Et si vous avez des livres ou des magazines à donner, n'hésitez pas à les déposer en mairie ! 
