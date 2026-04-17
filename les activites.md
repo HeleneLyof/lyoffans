@@ -34,7 +34,9 @@ Elle favorise sur son territoire, dans le respect des propriétés et des récol
 ### Les lyoffans roses 
 L'association organise des événements culturels au sein d'un cadre privé et convivial exclusivement réservé à ses membres, prioritairement les habitants de Lyoffans et environ. Pour être membre, il suffit de pénétrer sur le terrain un jour de manifestation ! 
 
+#### À venir
+
 ![Catalpa Party 21 juin 2026]({% link images/flyer-catalpas-party-V_01-.jpeg %})
 
-#### Historique des évènements
+#### On y était
 ![Fly]({% link images/bruno solo2.jpg %}) 
