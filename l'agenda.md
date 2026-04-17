@@ -28,7 +28,10 @@ Départ à 10h45 de la mairie.
 ![Fête de la St Jean 2025]({% link images/fetedelastjean.jpg %})
 #### 28 juin 2026 : vide-grenier 
 ![Vide grenier]({% link images/Videgrenier.jpg %})
-#### 27 septembre 2026 : hommage à la DFL : division Française libre 
+#### 27 septembre 2026 : hommage à la DFL, la Division Française Libre 
+
+Le bataillon de marche n°4 libère Lyoffans et Andornay les 25 et 26 septembre 1944. [Pour en savoir plus](https://www.1dfl-le-blog.fr/wp-content/uploads/2014/05/n%C2%B0-16-25-26-septembre-1944-Le-BM-4-libere-Lyoffans-et-Andornay.pdf)
+
 #### 11 novembre 2026 : commémoration de l’Armistice de 1918
 ![Photo]({% link images/11 novembre.jpg %})
 
